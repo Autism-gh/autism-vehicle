@@ -9,6 +9,7 @@
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
+  // https://github.com/Autism-gh/vehicle-manger.git
   name: 'App',
   components: {
     HelloWorld

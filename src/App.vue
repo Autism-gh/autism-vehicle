@@ -9,7 +9,7 @@
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
-  // https://github.com/Autism-gh/vehicle-manger.git  fuck you
+  // https://github.com/Autism-gh/vehicle-manger.git  fuck you too
   name: 'App',
   components: {
     HelloWorld
